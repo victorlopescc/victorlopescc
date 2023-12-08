@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Victor Lopes 👋
 
-<!--
-**victorlopescc/victorlopescc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web & Mobile Developer, and I'm studying computer science at [PUC-MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx).
 
-Here are some ideas to get you started:
+#### Current stack
+- Main language: `Javascript`
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`
+- Layout Design: `Figma`
+- Version control: `Git & Github`
+- Tools: `VSCode`, `Markdown`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- Email: victorlopes.cc@gmail.com
+- Linkedin: https://www.linkedin.com/in/vlopinhos/

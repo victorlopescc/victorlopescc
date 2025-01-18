@@ -5,7 +5,7 @@ I'm a Web & Mobile Developer, and I'm studying computer science at [PUC-MINAS](h
 
 #### Current stack
 - Main language: `Javascript`
-- Backend: `Nodejs`
+- Backend: `Nodejs`, `Python`
 - Frontend: `Reactjs`, `HTML5`, `CSS3`
 - Layout Design: `Figma`
 - Version control: `Git & Github`

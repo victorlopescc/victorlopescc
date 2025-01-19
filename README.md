@@ -7,7 +7,7 @@ I'm a Web & Mobile Developer, and I'm studying computer science at [PUC-MINAS](h
 - Main language: `Javascript`
 - Backend: `Nodejs`, `Python`
 - Frontend: `Reactjs`, `HTML5`, `CSS3`
-- Layout Design: `Figma`
+- Layout Design: `Figma`, `Excalidraw`
 - Version control: `Git & Github`
 - Tools: `VSCode`, `Markdown`
 

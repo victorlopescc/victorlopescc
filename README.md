@@ -9,7 +9,7 @@ I'm a Web & Mobile Developer, and I'm studying computer science at [PUC-MINAS](h
 - Frontend: `Reactjs`, `HTML5`, `CSS3`
 - Layout Design: `Figma`, `Excalidraw`
 - Version control: `Git & Github`
-- Tools: `VSCode`, `Markdown`, `JetBrains`
+- Tools: `VSCode`, `JetBrains`
 
 #### Contacts
 - Email: victorlopes.cc@gmail.com

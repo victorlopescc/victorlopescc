@@ -4,7 +4,7 @@
 I'm a Web & Mobile Developer, and I'm studying computer science at [PUC-MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx).
 
 #### Current stack
-- Main language: `Javascript`, `Python`
+- Main language: `Javascript/Typescript`, `Python`
 - Backend: `Nodejs`, `Flask`
 - Frontend: `Reactjs`, `HTML5`, `CSS3`
 - Layout Design: `Figma`, `Excalidraw`

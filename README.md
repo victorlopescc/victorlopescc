@@ -15,4 +15,4 @@ I'm a Web & Mobile Developer, and I'm studying computer science at [PUC-MINAS](h
 - Email: victorlopes.cc@gmail.com
 - Linkedin: https://www.linkedin.com/in/vlopinhos/
 
-![Snake_animation](https://github.com/victorlopescc/victorlopescc/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/victorlopescc/victorlopescc/blob/output/github-contribution-grid-snake-dark.svg)

@@ -6,7 +6,7 @@ I'm a Web & Mobile Developer, and I'm studying computer science at [PUC-MINAS](h
 #### Current stack
 - Main language: `Javascript/Typescript`, `Python`
 - Backend: `Nodejs`, `Flask`
-- Frontend: `Reactjs`, `HTML5`, `CSS3`
+- Frontend: `Reactjs`, `HTML5`, `TailWind`
 - Layout Design: `Figma`, `Excalidraw`
 - Version control: `Git & Github`
 - Tools: `VSCode`, `JetBrains`

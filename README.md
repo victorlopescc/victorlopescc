@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor Lopes 👋
 
 #### About
-I'm a Web & Mobile Developer, and I'm studying computer science at [PUC-MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx).
+I'm a Web Developer, and I'm studying computer science at [PUC-MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx).
 
 #### Current stack
 - Main language: `Javascript/Typescript`, `Python`

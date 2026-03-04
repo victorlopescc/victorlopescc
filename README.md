@@ -1,16 +1,16 @@
-### Hi there, I'm Victor Lopes 👋
+### Ola, Eu sou Victor Lopes 👋
 
-#### About
-I'm a Web Developer, and I'm studying computer science at [PUC-MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx).
+#### Sobre
+Sou um desenvolvedor Web e estudo Ciência da Computação na [PUC-MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx).
 
-#### Current stack
-- Main language: `Javascript/Typescript`, `Python`
+#### Stack Atual
+- Linguagem Principal: `Javascript/Typescript`, `Python`
 - Backend: `Nodejs/NestJS`, `Flask`
 - Frontend: `Reactjs`, `Angular`
 - Layout Design: `Figma`, `Excalidraw`
-- Version control: `Git & Github`
-- Tools: `VSCode`, `JetBrains`
+- Controle de Versão: `Git & Github`
+- Ferramentas: `VSCode`, `JetBrains`
 
-#### Contacts
+#### Contatos
 - Email: victorlopes.cc@gmail.com
 - Linkedin: https://www.linkedin.com/in/vlopinhos/

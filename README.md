@@ -1,4 +1,4 @@
-### Ola, Eu sou Victor Lopes 👋
+### Olá, Eu sou Victor Lopes 👋
 
 #### Sobre
 Sou um desenvolvedor Web e estudo Ciência da Computação na [PUC-MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx).

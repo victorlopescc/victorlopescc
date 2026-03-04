@@ -4,9 +4,9 @@
 I'm a Web Developer, and I'm studying computer science at [PUC-MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx).
 
 #### Current stack
-- Main language: `Javascript/Typescript`, `Python`, `C#`
-- Backend: `Nodejs`, `Flask`, `.Net`
-- Frontend: `Reactjs`, `HTML5`, `TailWind`,`RadixUI`
+- Main language: `Javascript/Typescript`, `Python`
+- Backend: `Nodejs/NestJS`, `Flask`
+- Frontend: `Reactjs`, `Angular`
 - Layout Design: `Figma`, `Excalidraw`
 - Version control: `Git & Github`
 - Tools: `VSCode`, `JetBrains`

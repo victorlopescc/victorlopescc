@@ -1,7 +1,7 @@
 ### Olá, Eu sou Victor Lopes 👋
 
 #### Sobre
-Sou um desenvolvedor Web e estudo Ciência da Computação na [PUC-MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx).
+Sou um Desenvolvedor Web e estudo Ciência da Computação na [PUC-MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx).
 
 #### Stack Atual
 - Linguagem Principal: `Javascript/Typescript`, `Python`
